@@ -3,30 +3,24 @@
   "projectOwner": "kandros",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": [
-    "README.md"
-  ],
+  "files": ["README.md"],
   "imageSize": 100,
   "commit": true,
   "commitConvention": "gitmoji",
   "contributors": [
     {
-      "login": "zanza00",
-      "name": "Simone Picciani",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/3732011?v=4",
-      "profile": "http://zanzapla.net",
-      "contributions": [
-        "content"
-      ]
-    },
-    {
       "login": "kandros",
       "name": "Jaga Santagostino",
       "avatar_url": "https://avatars0.githubusercontent.com/u/4562878?v=4",
       "profile": "http://jagascript.com",
-      "contributions": [
-        "content"
-      ]
+      "contributions": ["content"]
+    },
+    {
+      "login": "zanza00",
+      "name": "Simone Picciani",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3732011?v=4",
+      "profile": "http://zanzapla.net",
+      "contributions": ["content"]
     }
   ],
   "contributorsPerLine": 7

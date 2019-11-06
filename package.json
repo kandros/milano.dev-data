@@ -1,0 +1,14 @@
+{
+  "name": "milano.dev-data",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/kandros/milano.dev-data",
+  "author": "jaga santagostino <jagasantagostino@gmail.com> (https://jagasantagostino.com)",
+  "devDependencies": {
+    "all-contributors-cli": "^6.10.0"
+  },
+  "scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  }
+}

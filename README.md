@@ -6,8 +6,8 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://zanzapla.net"><img src="https://avatars2.githubusercontent.com/u/3732011?v=4" width="100px;" alt="Simone Picciani"/><br /><sub><b>Simone Picciani</b></sub></a><br /><a href="#content-zanza00" title="Content">🖋</a></td>
     <td align="center"><a href="http://jagascript.com"><img src="https://avatars0.githubusercontent.com/u/4562878?v=4" width="100px;" alt="Jaga Santagostino"/><br /><sub><b>Jaga Santagostino</b></sub></a><br /><a href="#content-kandros" title="Content">🖋</a></td>
+    <td align="center"><a href="http://zanzapla.net"><img src="https://avatars2.githubusercontent.com/u/3732011?v=4" width="100px;" alt="Simone Picciani"/><br /><sub><b>Simone Picciani</b></sub></a><br /><a href="#content-zanza00" title="Content">🖋</a></td>
   </tr>
 </table>
 
