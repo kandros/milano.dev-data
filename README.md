@@ -1,3 +1,9 @@
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 # milano.dev-data
 
 This repository hold data used to generate content for [milano.dev](https://milano.dev)
@@ -7,12 +13,6 @@ This repository hold data used to generate content for [milano.dev](https://mila
 If you want to add a missing community to milano.dev that has a meetup.com or eventbrite page open a pull request adding the url of the community into the relative inside `data` folder.
 
 If the community uses different platform please open an issue and link to the community webpage
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
