@@ -46,6 +46,24 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "emanuelr93",
+      "name": "Emanuel Russo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28240172?v=4",
+      "profile": "https://www.linkedin.com/in/emanuel-russo",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Loghorn",
+      "name": "Alessandro Vergani",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2026182?v=4",
+      "profile": "https://github.com/Loghorn",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7
