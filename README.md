@@ -18,6 +18,7 @@ If the community uses different platform of a custom website please open an Issu
     <td align="center"><a href="http://it.linkedin.com/in/lucazavarella"><img src="https://avatars1.githubusercontent.com/u/6104437?v=4" width="100px;" alt="Luca Zavarella"/><br /><sub><b>Luca Zavarella</b></sub></a><br /><a href="#content-lucazav" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/emanuel-russo"><img src="https://avatars3.githubusercontent.com/u/28240172?v=4" width="100px;" alt="Emanuel Russo"/><br /><sub><b>Emanuel Russo</b></sub></a><br /><a href="#content-emanuelr93" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Loghorn"><img src="https://avatars2.githubusercontent.com/u/2026182?v=4" width="100px;" alt="Alessandro Vergani"/><br /><sub><b>Alessandro Vergani</b></sub></a><br /><a href="#content-Loghorn" title="Content">🖋</a></td>
+    <td align="center"><a href="http://about.me/danielemegna"><img src="https://avatars3.githubusercontent.com/u/5415893?v=4" width="100px;" alt="Daniele Megna"/><br /><sub><b>Daniele Megna</b></sub></a><br /><a href="#content-danielemegna" title="Content">🖋</a></td>
   </tr>
 </table>
 
