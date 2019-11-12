@@ -82,6 +82,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "dbellettini",
+      "name": "Davide Bellettini",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/325358?v=4",
+      "profile": "http://bellettini.eu/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7

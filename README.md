@@ -23,6 +23,7 @@ If the community uses different platform of a custom website please open an Issu
   </tr>
   <tr>
     <td align="center"><a href="http://www.federicopepe.com"><img src="https://avatars0.githubusercontent.com/u/6317270?v=4" width="100px;" alt="Federico P."/><br /><sub><b>Federico P.</b></sub></a><br /><a href="#content-federico-pepe" title="Content">🖋</a></td>
+    <td align="center"><a href="http://bellettini.eu/"><img src="https://avatars1.githubusercontent.com/u/325358?v=4" width="100px;" alt="Davide Bellettini"/><br /><sub><b>Davide Bellettini</b></sub></a><br /><a href="#content-dbellettini" title="Content">🖋</a></td>
   </tr>
 </table>
 
