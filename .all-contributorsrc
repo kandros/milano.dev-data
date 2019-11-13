@@ -100,6 +100,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "StefanoGuerrini",
+      "name": "Stefano Guerrini",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11007273?v=4",
+      "profile": "https://stefanoguerrini.dev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7
