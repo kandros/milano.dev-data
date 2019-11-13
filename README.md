@@ -25,6 +25,7 @@ If the community uses different platform of a custom website please open an Issu
     <td align="center"><a href="http://bellettini.eu/"><img src="https://avatars1.githubusercontent.com/u/325358?v=4" width="100px;" alt="Davide Bellettini"/><br /><sub><b>Davide Bellettini</b></sub></a><br /><a href="#content-dbellettini" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/DenisFrezzato"><img src="https://avatars0.githubusercontent.com/u/11299464?v=4" width="100px;" alt="Denis Frezzato"/><br /><sub><b>Denis Frezzato</b></sub></a><br /><a href="#content-DenisFrezzato" title="Content">🖋</a></td>
     <td align="center"><a href="https://stefanoguerrini.dev"><img src="https://avatars3.githubusercontent.com/u/11007273?v=4" width="100px;" alt="Stefano Guerrini"/><br /><sub><b>Stefano Guerrini</b></sub></a><br /><a href="#content-StefanoGuerrini" title="Content">🖋</a></td>
+    <td align="center"><a href="https://angepili.github.io/"><img src="https://avatars1.githubusercontent.com/u/6697449?v=4" width="100px;" alt="Angelo"/><br /><sub><b>Angelo</b></sub></a><br /><a href="#content-angepili" title="Content">🖋</a></td>
   </tr>
 </table>
 
