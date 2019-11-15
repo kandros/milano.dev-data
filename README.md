@@ -29,6 +29,9 @@ If the community uses different platform of a custom website please open an Issu
     <td align="center"><a href="https://twitter.com/evacchi"><img src="https://avatars2.githubusercontent.com/u/380791?v=4" width="100px;" alt="Edoardo Vacchi"/><br /><sub><b>Edoardo Vacchi</b></sub></a><br /><a href="#content-evacchi" title="Content">🖋</a></td>
     <td align="center"><a href="https://alexcasalboni.com"><img src="https://avatars1.githubusercontent.com/u/2457588?v=4" width="100px;" alt="Alex Casalboni"/><br /><sub><b>Alex Casalboni</b></sub></a><br /><a href="#content-alexcasalboni" title="Content">🖋</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="http://www.rolandfg.net"><img src="https://avatars0.githubusercontent.com/u/593048?v=4" width="100px;" alt="Francesco Lerro"/><br /><sub><b>Francesco Lerro</b></sub></a><br /><a href="#content-flerro" title="Content">🖋</a></td>
+  </tr>
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
