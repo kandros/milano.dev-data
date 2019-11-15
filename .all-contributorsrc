@@ -127,6 +127,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "alexcasalboni",
+      "name": "Alex Casalboni",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2457588?v=4",
+      "profile": "https://blog.alexcasalboni.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7
