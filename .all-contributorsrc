@@ -145,7 +145,17 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "YeasterEgg",
+      "name": "Luca",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16397386?v=4",
+      "profile": "http://grokked.it",
+      "contributions": [
+        "content"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
