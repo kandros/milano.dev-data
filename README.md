@@ -9,7 +9,8 @@ If you want to add a missing community to milano.dev that has a meetup.com or ev
 If the community uses different platform of a custom website please open an Issue and link to the community webpage so we can do some scraping magic 🧙‍♂️👀
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="http://jagascript.com"><img src="https://avatars0.githubusercontent.com/u/4562878?v=4" width="100px;" alt="Jaga Santagostino"/><br /><sub><b>Jaga Santagostino</b></sub></a><br /><a href="#content-kandros" title="Content">🖋</a> <a href="https://github.com/kandros/milano.dev-data/commits?author=kandros" title="Documentation">📖</a></td>
@@ -31,9 +32,12 @@ If the community uses different platform of a custom website please open an Issu
   </tr>
   <tr>
     <td align="center"><a href="http://www.rolandfg.net"><img src="https://avatars0.githubusercontent.com/u/593048?v=4" width="100px;" alt="Francesco Lerro"/><br /><sub><b>Francesco Lerro</b></sub></a><br /><a href="#content-flerro" title="Content">🖋</a></td>
+    <td align="center"><a href="http://grokked.it"><img src="https://avatars1.githubusercontent.com/u/16397386?v=4" width="100px;" alt="Luca"/><br /><sub><b>Luca</b></sub></a><br /><a href="#content-YeasterEgg" title="Content">🖋</a></td>
   </tr>
 </table>
 
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Contributors ✨
