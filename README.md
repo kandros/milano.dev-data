@@ -33,6 +33,7 @@ If the community uses different platform of a custom website please open an Issu
   <tr>
     <td align="center"><a href="http://www.rolandfg.net"><img src="https://avatars0.githubusercontent.com/u/593048?v=4" width="100px;" alt="Francesco Lerro"/><br /><sub><b>Francesco Lerro</b></sub></a><br /><a href="#content-flerro" title="Content">🖋</a></td>
     <td align="center"><a href="http://grokked.it"><img src="https://avatars1.githubusercontent.com/u/16397386?v=4" width="100px;" alt="Luca"/><br /><sub><b>Luca</b></sub></a><br /><a href="#content-YeasterEgg" title="Content">🖋</a></td>
+    <td align="center"><a href="http://about.me/danielemegna"><img src="https://avatars3.githubusercontent.com/u/5415893?v=4" width="100px;" alt="Daniele Megna"/><br /><sub><b>Daniele Megna</b></sub></a><br /><a href="#content-danielemegna" title="Content">🖋</a></td>
   </tr>
 </table>
 

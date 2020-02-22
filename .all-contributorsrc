@@ -154,6 +154,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "danielemegna",
+      "name": "Daniele Megna",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5415893?v=4",
+      "profile": "http://about.me/danielemegna",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
