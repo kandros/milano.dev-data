@@ -66,10 +66,91 @@
       ]
     },
     {
-      "login": "danielemegna",
-      "name": "Daniele Megna",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/5415893?v=4",
-      "profile": "http://about.me/danielemegna",
+      "login": "Giuffre",
+      "name": "Angelo Giuffredi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1702559?v=4",
+      "profile": "https://github.com/Giuffre",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "federico-pepe",
+      "name": "Federico P.",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6317270?v=4",
+      "profile": "http://www.federicopepe.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "dbellettini",
+      "name": "Davide Bellettini",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/325358?v=4",
+      "profile": "http://bellettini.eu/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "DenisFrezzato",
+      "name": "Denis Frezzato",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/11299464?v=4",
+      "profile": "https://github.com/DenisFrezzato",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "StefanoGuerrini",
+      "name": "Stefano Guerrini",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11007273?v=4",
+      "profile": "https://stefanoguerrini.dev",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "angepili",
+      "name": "Angelo",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6697449?v=4",
+      "profile": "https://angepili.github.io/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "evacchi",
+      "name": "Edoardo Vacchi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/380791?v=4",
+      "profile": "https://twitter.com/evacchi",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "alexcasalboni",
+      "name": "Alex Casalboni",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2457588?v=4",
+      "profile": "https://alexcasalboni.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "flerro",
+      "name": "Francesco Lerro",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/593048?v=4",
+      "profile": "http://www.rolandfg.net",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "YeasterEgg",
+      "name": "Luca",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16397386?v=4",
+      "profile": "http://grokked.it",
       "contributions": [
         "content"
       ]
